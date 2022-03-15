@@ -18,11 +18,15 @@
             "name": "fileName"
         },
         {
+            "filterable": true,
+            "hidden": "false",
             "id": "column_2",
-            "label": "ID",
-            "name": "id"
+            "label": "Date Created",
+            "name": "dateCreated",
+            "sortable": "false"
         }
     ],
+    "considerFilterWhenGetTotal": "",
     "filters": [],
     "id": "list_shareFile",
     "name": "List - Share File",
