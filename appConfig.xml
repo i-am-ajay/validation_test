@@ -1,0 +1,14 @@
+<appDefinition>
+   <id>fileSharing</id>
+   <version></version>
+   <name>File Sharing</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+</appDefinition>
