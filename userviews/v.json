@@ -83,24 +83,50 @@
         "welcomeMessage": "#date.EEE, d MMM yyyy#"
     },
     "setting": {"properties": {
-        "mobileCacheEnabled": "",
-        "mobileViewDisabled": "",
+        "hideThisUserviewInAppCenter": "",
         "permission": {
-            "className": "",
+            "className": "org.joget.apps.userview.lib.LoggedInUserPermission",
             "properties": {}
         },
+        "tempDisablePermissionChecking": "",
         "theme": {
             "className": "org.joget.plugin.enterprise.ProgressiveTheme",
             "properties": {
                 "accentColor": "BLUE",
                 "buttonColor": "ORANGE",
                 "buttonTextColor": "WHITE",
+                "css": "",
+                "disableHelpGuide": "",
+                "disablePush": "",
+                "disablePwa": "",
+                "displayCategoryLabel": "",
+                "enableResponsiveSwitch": "",
+                "fav_icon": "",
                 "fontColor": "WHITE",
+                "fontControl": "",
+                "homeAttractBanner": "",
+                "homeUrl": "",
+                "horizontal_menu": "",
+                "inbox": "",
+                "js": "",
+                "loginPageBottom": "",
+                "loginPageTop": "",
+                "logo": "",
                 "menuFontColor": "BLACK",
                 "primaryColor": "INDIGO",
-                "themeScheme": "light"
+                "profile": "",
+                "removeAssignmentTitle": "",
+                "shortcut": [],
+                "shortcutLinkLabel": "",
+                "subfooter": "",
+                "subheader": "",
+                "themeScheme": "light",
+                "urlsToCache": "",
+                "userImage": "",
+                "userMenu": []
             }
         },
-        "userviewDescription": ""
+        "userviewDescription": "",
+        "userview_thumbnail": ""
     }}
 }
